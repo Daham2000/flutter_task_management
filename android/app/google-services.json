@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "235406967662",
+    "project_id": "atlas-labs-ts",
+    "storage_bucket": "atlas-labs-ts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:235406967662:android:653ce6ba1511e9c492377f",
+        "android_client_info": {
+          "package_name": "com.example.atlaslabs_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "235406967662-oll4hvfajcsiea7t6q6tv7r1gfr5c3vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvR1nM29Pz4MTqPObTaLGE-mqggwYb4UY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "235406967662-oll4hvfajcsiea7t6q6tv7r1gfr5c3vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
